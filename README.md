@@ -1,10 +1,18 @@
 # Feedback System
 
+<div align="center">
+  <img src="assets/banner.png" alt="Feedback System page" width="800"/>
+</div>
+
 A modern web application for collecting and managing feedback efficiently.
 
 ## Overview
 
 This feedback system is a full-stack web application that allows users to submit, manage, and analyze feedback. The system consists of a React frontend and a backend API.
+
+<div align="center">
+  <img src="assets/architecture.png" alt="System Architecture" width="600"/>
+</div>
 
 ## Project Structure
 
